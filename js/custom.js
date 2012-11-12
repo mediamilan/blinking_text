@@ -25,7 +25,7 @@ $(function(){
 				}, 1500);
 				
 			}, 2000
-		); // every 1 second
+		); // every 2 second
 	}
 	$bling_txt('.bling_txt');
 	
